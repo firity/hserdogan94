@@ -1,6 +1,6 @@
 # Hasan Sait ERDOGAN
 
-## User Details
+## Details About Hasen
 
 - Name: Hasan Sait ERDOGAN
  
@@ -44,7 +44,7 @@
 
 ## Interview details 
 
-- User Name: Hasen
+- user Name: Hasen
 
 - Interviewed by: Firewyni
 
